@@ -43,7 +43,7 @@ The problem of heavy jam is happened because of never configure the level of jam
 The target of this paper is to propose system provide solution for all above problems with least possible cost. Traffic light controller (TLC) can be implemented using microcontroller, FPGA, and ASIC design. FPGA has many advantages over microcontroller, some of these advantages are; the speed, number of input/output ports and performance which are all very important in TLC design, at the same time ASIC design is more expensive than FPGA. 
 Nowadays, FPGA becomes one of the most successful of today’s technologies for developing the systems which require a real time operation. FPGA is a re-configurable integrated circuit that consists of two dimensional arrays of logic blocks and flip-flops with an electrically programmable interconnection between logic blocks. 
 The reconfiguration property enables fast prototyping and updates for hardware devices even after market launch. Most of the TLCs implemented on FPGA are simple ones that have been implemented as examples of Finite State Machine (FSM).
-
+​![(13)Power2-1](https://user-images.githubusercontent.com/99065084/152630339-66ed6dc4-b654-467b-9500-b8d72b13a1a2.png)
 #### The Verilog language has been selected for programming the FPGA to fill two important needs in the design process. 
 
 - Firstly, it gives full description of the structure of a design that is how it is decomposed into sub-designs, and how those sub-designs are interconnected. 
