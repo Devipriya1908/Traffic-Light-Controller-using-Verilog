@@ -21,6 +21,7 @@
 
 ## Introduction 
 
+![(13)Power2-1](https://user-images.githubusercontent.com/99065084/152630339-66ed6dc4-b654-467b-9500-b8d72b13a1a2.png)
 Traffic control is a challenging problem in many cities. This is due to the large number of vehicles and the high dynamics of the traffic system. Poor traffic systems are the big reason for accidents, time losses. In this method of approach, it will reduce the waiting time of the vehicles at traffic signals. The hardware design has been developed using Verilog Hardware Description Language (HDL) programming. 
 
 Verilog designing is hardware descriptive language, the name itself suggest that it deals with the hardware designing and simulation. Basically, it becomes very difficult to mount the various electronic components on breadboard or PCB circuit. It also takes too much time for the simulation and sometimes many errors occur because of improper connection of components onto the circuit. 
